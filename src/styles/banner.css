@@ -1,0 +1,19 @@
+.banner-topic {
+  font-family: dancing;
+  font-size: 9em;
+}
+
+.banner-subtopic {
+  font-size: 10.6em;
+  font-family: josef;
+}
+
+.btn-slide {
+  height: 60rem;
+}
+
+@media screen and (min-width: 1450px) {
+  .btn-slide {
+    height: 75rem;
+  }
+}
