@@ -10,7 +10,7 @@ function VideoContent() {
     <div className="flex justify-center mt-10">
       <div className="body">
         <div className="px-12">
-          <img src="https://apis.xogrp.com/media-api/images/14fe20bd-e6f9-4ce8-b0ba-50764e70b835" alt="wedding-img" />
+          <iframe className="w-full aspect-video" src="https://www.youtube.com/embed/9pNBYSto1Ro?list=RDMM" title="Tattoo Colour - คืนนี้สบาย [Official Music Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
         <div className="py-4">
           <hr className="mx-auto border-t-2 border-black w-6"/>

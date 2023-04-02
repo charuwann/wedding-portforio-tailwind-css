@@ -1,6 +1,6 @@
 import Header from "../component/header";
 import About from "../component/about";
-import Porforio from  "../component/porforio";
+import Portforio from  "../component/portforio";
 import Blog from "../component/blog";
 import VideoHeader from "../component/VideoHeader";
 import VideoContent from "../component/VideoContent";
@@ -11,7 +11,7 @@ function Home() {
     <div>
       <Header />
       <About />
-      <Porforio />
+      <Portforio />
       <Blog />
       <VideoHeader />
       <VideoContent />
